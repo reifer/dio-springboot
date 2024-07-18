@@ -9,17 +9,17 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dio</groupId>
-<<<<<<< HEAD
+
 	<artifactId>spring-beans-autowired</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-beans-autowired</name>
 	<description>Projeto com  Spring Boot</description>
-=======
+
 	<artifactId>primeiros-passos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>primeiros-passos</name>
 	<description>Primeiros passos com  Spring Boot</description>
->>>>>>> 074a531a2c4ab72b17e60132614402f8cfdcf11d
+
 	<url/>
 	<licenses>
 		<license/>
@@ -47,7 +47,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
 
 		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
 		<dependency>
@@ -56,8 +55,6 @@
 			<version>2.11.0</version>
 		</dependency>
 
-=======
->>>>>>> 074a531a2c4ab72b17e60132614402f8cfdcf11d
 	</dependencies>
 
 	<build>
